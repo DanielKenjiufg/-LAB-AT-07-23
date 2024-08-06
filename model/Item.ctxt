@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Item
+comment1.params=
+comment1.target=int\ getId()
+comment1.text=GET\ Method\ Propertie\ id
+comment2.params=id
+comment2.target=void\ setId(int)
+comment2.text=SET\ Method\ Propertie\ id
+comment3.params=
+comment3.target=java.lang.String\ getNomeItem()
+comment3.text=GET\ Method\ Propertie\ nomeItem
+comment4.params=nomeItem
+comment4.target=void\ setNomeItem(java.lang.String)
+comment4.text=SET\ Method\ Propertie\ nomeItem
+comment5.params=
+comment5.target=int\ getQuantidade()
+comment5.text=GET\ Method\ Propertie\ quantidade
+comment6.params=quantidade
+comment6.target=void\ setQuantidade(int)
+comment6.text=SET\ Method\ Propertie\ quantidade
+comment7.params=
+comment7.target=double\ getPreco()
+comment7.text=GET\ Method\ Propertie\ pre\u00E7o
+comment8.params=preco
+comment8.target=void\ setPreco(double)
+comment8.text=SET\ Method\ Propertie\ pre\u00E7o
+numComments=9
